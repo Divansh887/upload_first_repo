@@ -4,6 +4,7 @@
 include 'connect.php';
 
 // ye check kar raha hai ki deleteid kya parameter me set hai
+//hjsdxsj
 if(isset($_GET['deleteid'])) {
 
     $id = $_GET['deleteid'];
